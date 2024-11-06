@@ -37,6 +37,7 @@ public class Main {
             connection.close();
         } catch (Exception e) {
             e.printStackTrace();
+
         }
     }
 
